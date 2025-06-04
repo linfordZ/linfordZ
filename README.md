@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Linford
-- 👀 I’m interested in software engineering and product design.
-- 🌱 I’m currently learning devOps tools such as Jenkins and Kubernetes.  
+- 👀 I’m interested in software engineering and product design.  
 - 💞️ I’m looking to collaborate on small startup projects as an full stack engineer or a designer.
 - 📫 Please email me @joshuazirangwa@gmail.com
 
